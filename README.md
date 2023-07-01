@@ -1,4 +1,22 @@
+<link src="css/styles.css" />
 <img src="Images/svg/header_es.svg"></img>
+
+
+<div class="radio-inputs">
+  <label class="radio">
+    <input type="radio" name="radio" checked="">
+    <span class="name">HTML</span>
+  </label>
+  <label class="radio">
+    <input type="radio" name="radio">
+    <span class="name">React</span>
+  </label>
+      
+  <label class="radio">
+    <input type="radio" name="radio">
+    <span class="name">Vue</span>
+  </label>
+</div>
 
 ### Lenguajes
 <div align="left">  
