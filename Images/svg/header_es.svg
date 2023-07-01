@@ -3,8 +3,8 @@
 <style>
 
 :root{
-  --primary-color: #10b981;
-  --secondary-color: #22C55E;
+  --primary-color: #39d353;
+  --secondary-color: black;
 }  
 
 svg text {
@@ -26,26 +26,13 @@ svg {
 }
 
 rect.headerRect {
-  fill: black;
+  fill: var(--secondary-color);
   fill-opacity: 20%;
 }
-rect.headerRect:hover {
-  fill: yellow;
-  fill-opacity: 50%;
-}
-
 .wave {
   animation: wave 3s linear;
   animation-iteration-count:infinite;
   fill: var(--primary-color);  
-}
-
-.wave:hover {
-  fill: var(--secondary-color);
-}
-
-.drop:hover {
-  fill: #C9FFE5;
 }
 
 .drop {
