@@ -1,16 +1,16 @@
-<img src="Images/svg/header_es.svg"></img>
+<img src="Images/svg/header_en.svg"></img>
 
 
 <details align="right">
  <summary><img src="https://img.icons8.com/color/48/google-translate.png" height="30"></summary>  
  <table align="right">
-  <tr><td><a href="README.md"><img src="Images/colombia.png" height="13"> Español </a></td></tr>
-  <tr><td><a href="README_en.md"><img src="Images/usa.png" height="13">   Ingles </a></td></tr>
+  <tr><td><a href="README.md"><img src="Images/colombia.png" height="13"> Spanish </a></td></tr>
+  <tr><td><a href="README_en.md"><img src="Images/usa.png" height="13">   English </a></td></tr>
  </table>
 </details>
 
-<h3>¡Bienvenido a mi página!</h3></br>
-<p>Soy Cristian Vega, Estudiante de Desarrollo de Software. De <img src="Images/colombia.png" height="13"> <b>Sogamoso, Colombia</b>, apasionado por la tecnología y el trabajo</br> colaborativo. Me gusta innovar y ampliar mi conocimiento día a día.</p>
+<h3>Welcome to my page!</h3></br>
+<p>I am Cristian Vega, a Software Development student from <img src="Images/colombia.png" height="13"> <b>Sogamoso, Colombia</b>, I am passionate about technology</br> and collaborative work.  I enjoy innovating and expanding my knowledge every day.</p>
 
 <br>
 
@@ -18,20 +18,20 @@
  ---
  
 ```javascript
-const miLeguajeFavorito = "JavaScript";
+const myfavoriteProgrammingLanguage = "JavaScript";
 
-const contactame = {
+const connectWithMe = {
     twitter: "@",
     linkedin: "/in/",
     email: "crisda.arive.1503@gmail.com",
-    catchphrase: "La vida es corta, usa " + miLeguajeFavorito + "! 🚀",
+    catchphrase: "The life is short," + myfavoriteProgrammingLanguage + "use! 🚀",
 };
 ```
 
- ### ⭐ Mi conjunto de habilidades
+ ### ⭐ My skill set
  ---
 <details>
-<summary>🚀 Lenguajes</summary>
+<summary>🚀 Lenguages</summary>
   <tr>
     <td>
       <a href="https://www.php.net" target="_blank" rel="noreferrer">
@@ -130,7 +130,7 @@ const contactame = {
 </details>
 
 <details>
- <summary>📔 Librerias</summary>
+ <summary>📔 Libraries</summary>
   <tr>
     <td>
       <a href="https://eslint.org/" target="_blank" rel="noreferrer">
@@ -156,7 +156,7 @@ const contactame = {
 </details>
 
 <details>
- <summary>🔧 Herramientas</summary>
+ <summary>🔧 Tools</summary>
   <tr>
     <td>
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -207,7 +207,7 @@ const contactame = {
 </details>
 
 <details>
- <summary>🎨 Diseño</summary>
+ <summary>🎨 Design</summary>
    <tr>
     <td>
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -243,7 +243,7 @@ const contactame = {
 </details>
 
 <details>
- <summary>📊 Bases de Datos</summary>
+ <summary>📊 Databases</summary>
    <tr>
      <td>
        <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
@@ -269,7 +269,7 @@ const contactame = {
 </details>
 <br>
 
- ### 📈 Estadísticas de GitHub
+ ### 📈 GitHub statistics
  ---
 
 <p align="center">
