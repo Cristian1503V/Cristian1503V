@@ -50,7 +50,7 @@ rect.headerRect:hover {
 }
 
 .drop {
-  fill: var(-primary-purple-Color);
+  fill: var(--primary-purple-Color);
   xfill: #99000055;
   animation: drop 8.2s linear infinite normal;
   stroke: var(--prymary-Color);
