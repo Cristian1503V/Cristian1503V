@@ -34,8 +34,8 @@ const Cristian = {
 
 ### :rocket: Frontend
 
-<tr valign="top" width="33%">
-  <td valign="top" width="33%">
+<tr>
+  <td>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3 logo" width="35" height="35" hspace="10" />
     </a>
@@ -45,7 +45,7 @@ const Cristian = {
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5 logo" width="35" height="35" hspace="10" />
     </a>
   </td>
-  <td valign="top" width="33%">
+  <td>
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php logo" width="35" height="35" hspace="10" />
     </a>
