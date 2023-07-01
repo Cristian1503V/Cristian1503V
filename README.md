@@ -74,7 +74,7 @@ const Cristian = {
 
 ### 🎆 Frameworks
 
-<tr>
+<tr valign="top" width="33%>
   <td>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs logo" width="35" height="35" hspace="10" />
