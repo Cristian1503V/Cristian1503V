@@ -30,69 +30,95 @@ const Cristian = {
 ```
 
 
-###
-
-### :rocket: Frontend
-
-<tr>
-  <td>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3 logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5 logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="tailwind logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
+ ### ⭐ Mi conjunto de habilidades
+ ---
+<details>
+<summary>:rocket:Lenguajes</summary>
+  <tr>
     <td>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
+      <a href="https://www.php.net" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php logo" width="35" height="35" hspace="10" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python logo" width="35" height="35" hspace="10" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java logo" width="35" height="35" hspace="10" />
+      </a>
+    </td>
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="35" height="35" hspace="10" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript logo" width="35" height="35" hspace="10" />
+      </a>
+    </td>
+  </tr>
+</details>
 
+<details>
+<summary>👀Frontend</summary>
+  <tr>
+    <td>
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3 logo" width="35" height="35" hspace="10" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5 logo" width="35" height="35" hspace="10" />
+      </a>
+    </td>
+    <td>
+      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap logo" width="35" height="35" hspace="10" />
+      </a>
+    </td>
+    <td>
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="tailwind logo" width="35" height="35" hspace="10" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron logo" width="35" height="35" hspace="10" />
+      </a>
+    </td>
+      <td>
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react logo" width="35" height="35" hspace="10" />
+      </a>
+    </td>
+  </tr>
+</details>
 
-  <td>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php logo" width="35" height="35" hspace="10" />
+<details>
+ <summary>👀Backend</summary>
+  <tr>
+   <td>
+     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+       <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs logo" width="30" height="30" hspace="10" />
+     </a>
+   </td>
+     <td>
+     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+       <img src="https://img.icons8.com/ios/50/000000/express-js.png"  alt="express logo" width="110" height="35" hspace="10" />
+     </a>
+   </td>
+   <td>
+    <a href="https://graphql.org" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql logo" width="35" height="35" hspace="10" />
     </a>
   </td>
-  <td>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-</tr>
+ </tr>
+</details>
 
 ### 🎆 Frameworks
 
