@@ -3,8 +3,8 @@
 <style>
 
 :root{
-  --primary-purple-Color: #44d8e3;
-  --secondary-purple-Color: #54f4ff;
+  --primary-color: #4447e3;
+  --secondary-color: #5457ff;
 
 }  
 
@@ -38,11 +38,11 @@ rect.headerRect:hover {
 .wave {
   animation: wave 3s linear;
   animation-iteration-count:infinite;
-  fill: var(--primary-purple-Color);  
+  fill: var(--primary-color);  
 }
 
 .wave:hover {
-  fill: var(--secondary-purple-Color);
+  fill: var(--secondary-color);
 }
 
 .drop:hover {
@@ -50,10 +50,10 @@ rect.headerRect:hover {
 }
 
 .drop {
-  fill: var(--primary-purple-Color);
+  fill: var(--primary-color);
   xfill: #99000055;
   animation: drop 8.2s linear infinite normal;
-  stroke: var(--prymary-Color);
+  stroke: var(--primary-color);
   stroke-width: 0.5;
   transform: translateY(25px) ;
   transform-box: fill-box;
