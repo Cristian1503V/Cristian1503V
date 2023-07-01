@@ -120,170 +120,134 @@ const Cristian = {
  </tr>
 </details>
 
-### 🎆 Frameworks
+<details>
+ <summary>🔮 Frameworks</summary>
+  <tr>
+   <td>
+     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+       <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs logo" width="35" height="35" hspace="10" />
+     </a>
+   </td>
+ </tr>
+</details>
 
-<tr valign="top" width="33%>
-  <td>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-</tr>
+<details>
+ <summary>📔 Librerias</summary>
+  <tr>
+    <td>
+      <a href="https://eslint.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="eslint logo" width="35" height="35" hspace="10" />
+      </a>
+    </td>
+    <td>
+      <a href="https://jquery.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery logo" width="35" height="35" hspace="10" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron logo" width="35" height="35" hspace="10" />
+      </a>
+    </td>
+    <td>
+      <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux logo" width="35" height="35" hspace="10" />
+      </a>
+    </td>
+  </tr>
+</details>
 
-### 🖌️ Styles
+<details>
+ <summary>🔧 Herramientas</summary>
+  <tr>
+    <td>
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker logo" width="35" height="35" hspace="10" />
+      </a>
+    </td>
+    <td>
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git logo" width="35" height="35" hspace="10" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github logo" width="35" height="35" hspace="10" />
+      </a>
+    </td>
+    <td>
+      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vsCode logo" width="35" height="35" hspace="10" />
+      </a>
+    </td>
+    <td>
+      <a href="https://postman.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman logo" width="35" height="35" hspace="10" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm logo" width="35" height="35" hspace="10" />
+      </a>
+    </td>
+    <td>
+      <a href="https://es.wikipedia.org/wiki/Markdown" target="_blank" rel="noreferrer">
+        <img src="https://static-00.iconduck.com/assets.00/markdown-icon-512x512-bfxegudd.png" alt="markdown logo" width="35" height="35" hspace="10" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.atlassian.com/es/software/jira" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira logo" width="35" height="35" hspace="10" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" alt="bash logo" width="35" height="35" hspace="10" />
+      </a>
+    </td>
+  </tr>
+</details>
 
-<tr>
-  <td>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="tailwind logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-</tr>
+<details>
+ <summary>🎨 Diseño</summary>
+   <tr>
+    <td>
+      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma logo" width="30" height="30" hspace="10" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender logo" width="35" height="35" hspace="10" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+        <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="photoshop logo" width="30" height="30" hspace="10" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd logo" width="30" height="30" hspace="10" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.sketch.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch logo" width="30" height="30" hspace="10" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator logo" width="30" height="30" hspace="10" />
+      </a>
+    </td>
+  </tr>
+</details>
 
-### 📖 Libraries
-
-<tr>
-  <td>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://graphql.org" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://eslint.org/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="eslint logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-</tr>
-
-### 🧰 Tools
-
-<tr>
-  <td>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://github.com/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vsCode logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://es.wikipedia.org/wiki/Markdown" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="markdown logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.atlassian.com/es/software/jira" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-</tr>
 
 ### 📽️ Design
 
-<tr>
-  <td>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-      <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="photoshop logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.sketch.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator logo" width="35" height="35" hspace="10" />
-    </a>
-  </td>
-</tr>
+
 
 ### 🏬 Databases
 
