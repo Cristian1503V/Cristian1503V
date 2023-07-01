@@ -9,6 +9,24 @@
  </table>
 </details>
 
+<h3>¡Bienvenido a mi página!</h3></br>
+<p>Soy Cristian Vega, Estudiante de Desarrollo de Software. De <img src="Images/colombia.png" height="13"> <b>Sogamoso, Colombia</b>, apasionado por la tecnología y el trabajo colaborativo. Me gusta innovar y ampliar mi conocimiento día a día.</p>
+
+<br>
+
+ ###  💻 Ctrl + S
+ ---
+ 
+```javascript
+const miLeguajeFavorito = "JavaScript";
+
+const contactame = {
+    twitter: "@",
+    linkedin: "/in/",
+    email: "crisda.arive.1503@gmail.com",
+    catchphrase: "La vida es corta, usa " + miLeguajeFavorito + "! 🚀",
+};
+```
 
  ### ⭐ Mi conjunto de habilidades
  ---
@@ -255,8 +273,8 @@
  ---
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cristian1503V&locale=en&show_icons=true&rank_icon=github&include_all_commits=true&card_width=450&theme=vue-dark" alt="Cristian1503V stats" />
-  <img align="center" src="https://streak-stats.demolab.com?user=Cristian1503V&locale=en&card_width=450&theme=vue-dark" alt="Cristian1503V streak" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cristian1503V&locale=en&show_icons=true&rank_icon=github&include_all_commits=true&card_width=350&theme=vue-dark" alt="Cristian1503V stats" />
+  <img align="center" src="https://streak-stats.demolab.com?user=Cristian1503V&locale=en&card_width=350&theme=vue-dark" alt="Cristian1503V streak" />
 </p>
 
 <p align="center">
@@ -264,25 +282,11 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cristian1503V&locale=en&layout=compact&card_width=450&theme=vue-dark" alt="Cristian1503V languages stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cristian1503V&locale=en&layout=compact&card_width=350&theme=vue-dark" alt="Cristian1503V languages stats"/>
 </p>
 
 <br>
 <br>
-<br>
 
- ###  💻 Ctrl + S
- ---
- 
-```javascript
-const miLeguajeFavorito = "JavaScript";
-
-const contactame = {
-    twitter: "@",
-    linkedin: "/in/",
-    email: "crisda.arive.1503@gmail.com",
-    catchphrase: "La vida es corta, usa " + miLeguajeFavorito + "! 🚀",
-};
-```
 
 
