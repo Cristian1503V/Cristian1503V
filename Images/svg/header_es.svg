@@ -198,7 +198,7 @@ g.typingUnderline rect {
            dur="5.8s" begin="0s" fill="freeze"/>
 </path>
 
-<text x="64" font-family="Helvetica" font-size=".12em" fill="white"
+<text x="64" font-family="Helvetica" font-size=".17em" fill="white"
      text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
   <textPath xlink:href="#descriptionTyping" >
       Diseño, Creación, Desarrollo,  &amp; Tecnologia.
@@ -209,6 +209,12 @@ g.typingUnderline rect {
       fill="#AAA" font-weight="bold"> 
       Holaa!
 </text>
+
+<text x="22" y="12" font-family="Helvetica" font-size=".22em"
+      fill="#AAA" font-weight="bold"> 
+      Gracias por visitar mi Perfil 🚀  
+</text>
+
 
 <image style="overflow:visible;clip-path:url(#mask);TWFkZUJ5VGFjY2E=;" 
 width="4" x="17" y="8.5"
