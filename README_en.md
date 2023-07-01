@@ -24,7 +24,7 @@ const connectWithMe = {
     twitter: "@",
     linkedin: "/in/",
     email: "crisda.arive.1503@gmail.com",
-    catchphrase: "The life is short," + myfavoriteProgrammingLanguage + "use! 🚀",
+    catchphrase: "The life is short," ${myfavoriteProgrammingLanguage} "use! 🚀",
 };
 ```
 
