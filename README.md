@@ -46,6 +46,16 @@ const Cristian = {
     </a>
   </td>
   <td>
+  <td>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap logo" width="35" height="35" hspace="10" />
+    </a>
+  </td>
+  <td>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+      <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="tailwind logo" width="35" height="35" hspace="10" />
+    </a>
+  </td>
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php logo" width="35" height="35" hspace="10" />
     </a>
