@@ -46,7 +46,6 @@ const Cristian = {
     </a>
   </td>
   <td>
-  <td>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap logo" width="35" height="35" hspace="10" />
     </a>
@@ -56,6 +55,19 @@ const Cristian = {
       <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="tailwind logo" width="35" height="35" hspace="10" />
     </a>
   </td>
+  <td>
+    <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron logo" width="35" height="35" hspace="10" />
+    </a>
+  </td>
+    <td>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react logo" width="35" height="35" hspace="10" />
+    </a>
+  </td>
+
+
+  <td>
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php logo" width="35" height="35" hspace="10" />
     </a>
