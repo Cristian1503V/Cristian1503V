@@ -100,7 +100,7 @@ const Cristian = {
 </details>
 
 <details>
- <summary>🔮 Backend</summary>
+ <summary>🌚 Backend</summary>
   <tr>
    <td>
      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -244,45 +244,31 @@ const Cristian = {
   </tr>
 </details>
 
-
-### 📽️ Design
-
-
-
-### 🏬 Databases
-
-<tr>
-  <td>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase logo" width="30" height="30" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb logo" width="30" height="30" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb logo" width="30" height="30" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql logo" width="30" height="30" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql logo" width="30" height="30" hspace="10" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite logo" width="30" height="30" hspace="10" />
-    </a>
-  </td>
-</tr>
+<details>
+ <summary>📊 Databases</summary>
+   <tr>
+     <td>
+       <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
+         <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" alt="mariadb logo" width="35" height="35" hspace="10" />
+       </a>
+     </td>
+     <td>
+       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql logo" width="35" height="35" hspace="10" />
+       </a>
+     </td>
+     <td>
+       <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql logo" width="30" height="30" hspace="10" />
+       </a>
+     </td>
+     <td>
+       <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite logo" width="35" height="35" hspace="10" />
+       </a>
+     </td>
+   </tr>
+</details>
 
 ### Here is a random meme for you, to make your day better
 (PS: Refresh the page to see a new meme :wink: )
