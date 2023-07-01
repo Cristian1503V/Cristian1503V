@@ -6,7 +6,7 @@
 
 <table align="right">
  <tr><td><a href="README.md"><img src="Images/colombia.png" height="13"> Español </a></td></tr>
- <tr><td><a href="README_fr.md"><img src="Images/usa.png" height="13"> Ingles </a></td></tr>
+ <tr><td><a href="README_fr.md"><img src="Images/usa.png" height="13">   Ingles </a></td></tr>
 </table>
 
 </details>
@@ -27,7 +27,6 @@
 ###
 
 ## :rocket: Languages:
-<table>
 <tr>
   <td>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -75,11 +74,9 @@
     </a>
   </td>
 </tr>
-</table>
 
 ## 🎆 Frameworks:
 
-<table>
 <tr>
   <td>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
@@ -92,11 +89,9 @@
     </a>
   </td>
 </tr>
-</table>
 
 ## 🖌️ Styles:
 
-<table>
 <tr>
   <td>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -109,11 +104,9 @@
     </a>
   </td>
 </tr>
-</table>
 
 ## 📖 Libraries:
 
-<table>
 <tr>
   <td>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -151,11 +144,9 @@
     </a>
   </td>
 </tr>
-</table>
 
 ## 🧰 Tools:
 
-<table>
 <tr>
   <td>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -213,11 +204,9 @@
     </a>
   </td>
 </tr>
-</table>
 
 ## 📽️ Design:
 
-<table>
 <tr>
   <td>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -250,11 +239,9 @@
     </a>
   </td>
 </tr>
-</table>
 
 ## 🏬 Databases:
 
-<table>
 <tr>
   <td>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
@@ -287,9 +274,13 @@
     </a>
   </td>
 </tr>
-</table>
 
 ## 🤖 Testing:
 
-<table>
 <tr>
+  <td>
+    <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest logo" width="40" height="40" hspace="10" />
+    </a>
+  </td>  
+</tr>
