@@ -5,7 +5,6 @@
 :root{
   --primary-color: #4447e3;
   --secondary-color: #5457ff;
-
 }  
 
 svg text {
