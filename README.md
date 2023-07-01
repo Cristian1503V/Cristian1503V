@@ -269,17 +269,20 @@ const Cristian = {
      </td>
    </tr>
 </details>
+<br>
+<br>
 
-### Here is a random meme for you, to make your day better
-(PS: Refresh the page to see a new meme :wink: )
+ ### 📈 Estadísticas de GitHub
+ ---
 
-<img src='https://web-production-4cea.up.railway.app/' title="Meme" alt="random meme image" height="400">
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cristian1503V&locale=en&show_icons=true&rank_icon=github&include_all_commits=true&card_width=450&theme=react" alt="Cristian1503V stats" />
+  <img align="center" src="https://streak-stats.demolab.com?user=Cristian1503V&locale=en&card_width=450&theme=react" alt="Cristian1503V streak" />
+</p>
 
-## 📊 GitHub Stats:
-  ![](https://github-readme-stats.vercel.app/api?username=Cristian1503V&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Cristian1503V&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian1503V&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cristian1503V&locale=en&layout=compact&card_width=450&theme=react" alt="Cristian1503V languages stats"/>
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
