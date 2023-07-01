@@ -21,8 +21,7 @@ const Cristian = {
             js: ["Node", "Express"],
         },
         devOps: ["AWS", "Docker🐳"],
-        databases: ["mongoDb", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        databases: ["Firebase", "mongoDb", "MySql", "PostgreSQL", "sqlite"],
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "No Focus point at this time",
@@ -33,7 +32,7 @@ const Cristian = {
 
 ###
 
-### :rocket Frontend
+### :rocket: Frontend
 
 <tr>
   <td>
