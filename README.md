@@ -2,20 +2,12 @@
 
 
 <details align="right">
-<summary><img src="https://img.icons8.com/color/48/google-translate.png" height="30"></summary>  
-
-<table align="right">
- <tr><td><a href="README.md"><img src="Images/colombia.png" height="13"> Español </a></td></tr>
- <tr><td><a href="README_fr.md"><img src="Images/usa.png" height="13">   Ingles </a></td></tr>
-</table>
-
+ <summary><img src="https://img.icons8.com/color/48/google-translate.png" height="30"></summary>  
+ <table align="right">
+  <tr><td><a href="README.md"><img src="Images/colombia.png" height="13"> Español </a></td></tr>
+  <tr><td><a href="README_fr.md"><img src="Images/usa.png" height="13">   Ingles </a></td></tr>
+ </table>
 </details>
-
-
-
-
-
-
 
 
 ###
@@ -266,9 +258,12 @@
 <img src='https://web-production-4cea.up.railway.app/' title="Meme" alt="random meme image" height="400">
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Cristian1503V&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Cristian1503V&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian1503V&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<div align="center">
+  ![](https://github-readme-stats.vercel.app/api?username=Cristian1503V&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Cristian1503V&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian1503V&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+</div>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
