@@ -2,7 +2,7 @@
 
 
 <details align="right">
-<summary><img src="Images/svg/symbol.svg " height="13"></img></summary>  
+<summary><img src="https://img.icons8.com/color/48/google-translate.png" height="30"></summary>  
 
 <table align="right">
  <tr><td><a href="README.md"><img src="Images/colombia.png" height="13"> Español </a></td></tr>
