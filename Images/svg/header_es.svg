@@ -2,6 +2,12 @@
 
 <style>
 
+:root{
+  --primary-purple-Color: #44d8e3;
+  --secondary-purple-Color: #54f4ff;
+
+}  
+
 svg text {
   transform-origin: 50% 50%;
   transform: translate(0%, -40%) rotate(180deg);
@@ -32,11 +38,11 @@ rect.headerRect:hover {
 .wave {
   animation: wave 3s linear;
   animation-iteration-count:infinite;
-  fill: #4447e3;  
+  fill: var(--primary-purple-Color);  
 }
 
 .wave:hover {
-  fill: #5457ff;
+  fill: var(--secondary-purple-Color);
 }
 
 .drop:hover {
@@ -44,10 +50,10 @@ rect.headerRect:hover {
 }
 
 .drop {
-  fill: #4447e3;
+  fill: var(-primary-purple-Color);
   xfill: #99000055;
   animation: drop 8.2s linear infinite normal;
-  stroke: #4447e3;
+  stroke: var(--prymary-Color);
   stroke-width: 0.5;
   transform: translateY(25px) ;
   transform-box: fill-box;
