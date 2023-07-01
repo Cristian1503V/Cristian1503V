@@ -3,7 +3,7 @@
 <style>
 
 :root{
-  --primary-color: #238636;
+  --primary-color: #a78bfa;
   --secondary-color: black;
 }  
 
