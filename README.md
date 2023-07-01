@@ -1,7 +1,7 @@
 <img src="Images/svg/header_es.svg"></img>
 
 
-
+###Leguajes
 <div align="left">  
 <a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="50" alt="javascript logo"/></a>  
 <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="50" alt="php logo"  /></a>  
