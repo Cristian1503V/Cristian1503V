@@ -260,3 +260,24 @@
   </td>
 </tr>
 
+### Here is a random meme for you, to make your day better
+(PS: Refresh the page to see a new meme :wink: )
+
+<img src='https://web-production-4cea.up.railway.app/' title="Meme" alt="random meme image" height="400">
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Cristian1503V&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Cristian1503V&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian1503V&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Cristian1503V&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Cristian1503V&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
