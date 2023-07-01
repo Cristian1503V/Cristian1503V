@@ -276,7 +276,7 @@ const Cristian = {
  ---
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cristian1503V&locale=en&show_icons=true&rank_icon=github&include_all_commits=true&card_width=450&theme=react" alt="Cristian1503V stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cristian1503V&locale=en&show_icons=true&rank_icon=github&include_all_commits=true&card_width=450&theme=vue-dark" alt="Cristian1503V stats" />
   <img align="center" src="https://streak-stats.demolab.com?user=Cristian1503V&locale=en&card_width=450&theme=react" alt="Cristian1503V streak" />
 </p>
 
