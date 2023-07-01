@@ -10,26 +10,6 @@
 </details>
 
 
-
-```javascript
-const Cristian = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "photography"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Express"],
-        },
-        devOps: ["AWS", "Docker🐳"],
-        databases: ["Firebase", "mongoDb", "MySql", "PostgreSQL", "sqlite"],
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
-
-
  ### ⭐ Mi conjunto de habilidades
  ---
 <details>
@@ -270,25 +250,37 @@ const Cristian = {
    </tr>
 </details>
 <br>
-<br>
 
  ### 📈 Estadísticas de GitHub
  ---
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cristian1503V&locale=en&show_icons=true&rank_icon=github&include_all_commits=true&card_width=450&theme=vue-dark" alt="Cristian1503V stats" />
-  <img align="center" src="https://streak-stats.demolab.com?user=Cristian1503V&locale=en&card_width=450&theme=react" alt="Cristian1503V streak" />
+  <img align="center" src="https://streak-stats.demolab.com?user=Cristian1503V&locale=en&card_width=450&theme=vue-dark" alt="Cristian1503V streak" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cristian1503V&locale=en&layout=compact&card_width=450&theme=react" alt="Cristian1503V languages stats"/>
+ <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Cristian1503V&limit=5&theme=vue-dark&combine_all_yearly_contributions=true" alt="Cristian1503V languages stats" />
 </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cristian1503V&locale=en&layout=compact&card_width=450&theme=vue-dark" alt="Cristian1503V languages stats"/>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Cristian1503V&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ ### 📈 Ctrl + S
+ ---
+ 
+```javascript
+const miLeguajeFavorito = "JavaScript";
+
+const contactame = {
+    twitter: "@hilarioushacker",
+    linkedin: "/in/hilarioushacker",
+    email: "crisda.arive.1503@gmail.com",
+    catchphrase: "La vida es corta, usa " + miLeguajeFavorito + "! 🚀",
+};
+```
+
 
