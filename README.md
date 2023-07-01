@@ -33,7 +33,7 @@ const Cristian = {
  ### ⭐ Mi conjunto de habilidades
  ---
 <details>
-<summary>:rocket:Lenguajes</summary>
+<summary>🚀 Lenguajes</summary>
   <tr>
     <td>
       <a href="https://www.php.net" target="_blank" rel="noreferrer">
@@ -64,7 +64,7 @@ const Cristian = {
 </details>
 
 <details>
-<summary>👀Frontend</summary>
+<summary>👀 Frontend</summary>
   <tr>
     <td>
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -100,7 +100,7 @@ const Cristian = {
 </details>
 
 <details>
- <summary>👀Backend</summary>
+ <summary>🔮 Backend</summary>
   <tr>
    <td>
      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
