@@ -10,6 +10,27 @@
 </details>
 
 
+
+```javascript
+const Cristian = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Java", "PHP"],
+    askMeAbout: ["web dev", "tech", "photography"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        devOps: ["AWS", "Docker🐳"],
+        databases: ["mongoDb", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "No Focus point at this time",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+
 ###
 
 ### :rocket Frontend
