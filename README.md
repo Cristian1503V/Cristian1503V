@@ -1,7 +1,7 @@
 <img src="Images/svg/header_es.svg"></img>
 
 
-<details>
+<details align="right">
 <summary></summary>
 
 <table align="right">
