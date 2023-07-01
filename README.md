@@ -34,8 +34,8 @@ const Cristian = {
 
 ### :rocket: Frontend
 
-<tr>
-  <td>
+<tr valign="top" width="33%>
+  <td valign="top" width="33%>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3 logo" width="35" height="35" hspace="10" />
     </a>
