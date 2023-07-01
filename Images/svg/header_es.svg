@@ -3,8 +3,8 @@
 <style>
 
 :root{
-  --primary-color: #4447e3;
-  --secondary-color: #5457ff;
+  --primary-color: #22d3ee;
+  --secondary-color: #67e8f9;
 }  
 
 svg text {
@@ -45,7 +45,7 @@ rect.headerRect:hover {
 }
 
 .drop:hover {
-  fill: #C9FFE5;
+  fill: #b3f7d6;
 }
 
 .drop {
