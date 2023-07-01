@@ -268,16 +268,18 @@
 </p>
 
 <br>
+<br>
+<br>
 
- ### 📈 Ctrl + S
+ ###  💻 Ctrl + S
  ---
  
 ```javascript
 const miLeguajeFavorito = "JavaScript";
 
 const contactame = {
-    twitter: "@hilarioushacker",
-    linkedin: "/in/hilarioushacker",
+    twitter: "@",
+    linkedin: "/in/",
     email: "crisda.arive.1503@gmail.com",
     catchphrase: "La vida es corta, usa " + miLeguajeFavorito + "! 🚀",
 };
