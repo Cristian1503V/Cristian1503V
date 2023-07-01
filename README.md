@@ -1,10 +1,17 @@
 <img src="Images/svg/header_es.svg"></img>
 
 
+<details>
+<summary></summary>
+
 <table align="right">
  <tr><td><a href="README.md"><img src="Images/colombia.png" height="13"> Español </a></td></tr>
  <tr><td><a href="README_fr.md"><img src="Images/usa.png" height="13"> Ingles </a></td></tr>
 </table>
+
+</details>
+
+
 
 
 ### Lenguajes
