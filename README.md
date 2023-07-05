@@ -22,7 +22,7 @@ const miLeguajeFavorito = "JavaScript";
 
 const contactame = {
     twitter: "@",
-    linkedin: "/in/",
+    linkedin: "/in/Cristian-Vega-Ariza",
     email: "crisda.arive.1503@gmail.com",
     catchphrase: ´La vida es corta, usa " ${miLeguajeFavorito}"! 🚀´,
 };
