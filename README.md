@@ -128,7 +128,7 @@ const contactame = {
    </td>
    <td>
     <a href="https://astro.build/" target="_blank" rel="noreferrer">
-      <img src="https://astro.js.org/astro.png" alt="astro logo" width="40" height="40" hspace="10" />
+      <img src="https://astro.js.org/astro.png" alt="astro logo" width="30" height="30" hspace="10" />
     </a>
   </td>
  </tr>
