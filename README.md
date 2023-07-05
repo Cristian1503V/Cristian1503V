@@ -126,6 +126,11 @@ const contactame = {
        <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs logo" width="30" height="30" hspace="10" />
      </a>
    </td>
+   <td>
+    <a href="https://astro.build/" target="_blank" rel="noreferrer">
+      <img src="https://astro.js.org/astro.png" alt="astro logo" width="40" height="40" hspace="10" />
+    </a>
+  </td>
  </tr>
 </details>
 
