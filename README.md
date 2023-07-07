@@ -24,7 +24,7 @@ const contactame = {
     twitter: "@",
     linkedin: "/in/Cristian-Vega-Ariza",
     email: "crisda.arive.1503@gmail.com",
-    catchphrase: ´La vida es corta, usa " ${miLeguajeFavorito}"! 🚀´,
+    catchphrase: ´La vida es corta, usa  ${miLeguajeFavorito} ! 🚀´,
 };
 ```
 
