@@ -10,7 +10,7 @@
 </details>
 
 <h3>¡Bienvenido a mi página!</h3></br>
-<p>Soy Cristian Vega, Estudiante de Desarrollo de Software. De <img src="Images/colombia.png" height="13"> <b>Sogamoso, Colombia</b>, apasionado por la tecnología y el trabajo</br> colaborativo. Me gusta innovar y ampliar mi conocimiento día a día.</p>
+<p>Soy Cristian Vega, Estudiante de Desarrollo de Software. De <img src="Images/colombia.png" height="13"> <b>Sogamoso, Colombia</b>, apasionado por la <br> tecnología y el trabajo colaborativo. Me gusta innovar y ampliar mi conocimiento día a día.</p>
 
 <br>
 
