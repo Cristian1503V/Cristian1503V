@@ -9,7 +9,7 @@
  </table>
 </details>
 
-<h3>Welcome to my page!</h3></br>
+<h3>Welcome to my profile!</h3></br>
 <p>I am Cristian Vega, a Software Development student from <img src="Images/colombia.png" height="13"> <b>Sogamoso, Colombia</b>, I am passionate </br> about technology and collaborative work.  I enjoy innovating and expanding my knowledge every day.</p>
 
 <br>
