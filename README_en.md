@@ -269,24 +269,4 @@ const connectWithMe = {
 </details>
 <br>
 
- ### 📈 GitHub statistics
- ---
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cristian1503V&locale=en&show_icons=true&rank_icon=github&include_all_commits=true&card_width=350&theme=vue-dark" alt="Cristian1503V stats" />
-  <img align="center" src="https://streak-stats.demolab.com?user=Cristian1503V&locale=en&card_width=350&theme=vue-dark" alt="Cristian1503V streak" />
-</p>
-
-<p align="center">
- <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Cristian1503V&limit=5&theme=vue-dark&combine_all_yearly_contributions=true" alt="Cristian1503V languages stats" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cristian1503V&locale=en&layout=compact&card_width=350&theme=vue-dark" alt="Cristian1503V languages stats"/>
-</p>
-
-<br>
-<br>
-
-
 
